@@ -122,7 +122,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   projectileSpeed: 15
-  impactEffect: {fileID: 2191083917265516397, guid: 67a7ffd8b2e6ef1449d257751c33e018, type: 3}
+  impactEffectPrefab: {fileID: 2191083917265516397, guid: 67a7ffd8b2e6ef1449d257751c33e018, type: 3}
 --- !u!50 &1480673800118574377
 Rigidbody2D:
   serializedVersion: 4

@@ -6,23 +6,23 @@ using UnityEngine;
 public class Projectile : MonoBehaviour
 {
     public float projectileSpeed;
-    public GameObject impactEffect;
+    public GameObject impactEffectPrefab; // Changed variable name for clarity
 
-    private Rigidbody2D rigidbody;
+    private Rigidbody2D _rigidbody;
+
     void Start()
     {
-        rigidbody = GetComponent<Rigidbody2D>();
-        rigidbody.velocity = transform.right * projectileSpeed;
+        _rigidbody = GetComponent<Rigidbody2D>();
+        _rigidbody.velocity = transform.right * projectileSpeed;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Enemy"))
         {
-            Instantiate(impactEffect, transform.position, Quaternion.identity);
-            Destroy(GameObject.FindWithTag("Enemy"));
-            Destroy(this.gameObject);
-            Destroy(impactEffect.gameObject);
+            Instantiate(impactEffectPrefab, transform.position, Quaternion.identity);
+            Destroy(collision.gameObject); // Destroy the enemy, not the asset
+            Destroy(this.gameObject); // Destroy the projectile
         }
     }
 }
