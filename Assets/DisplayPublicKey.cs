@@ -1,5 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
+using Solana.Unity.SDK;
+using Solana.Unity.Wallet;
 using UnityEngine;
 using TMPro;
 

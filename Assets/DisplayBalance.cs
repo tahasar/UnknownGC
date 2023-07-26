@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Solana.Unity.SDK;
 using UnityEngine;
 using TMPro;
 
