@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d77fbacc-1f7c-4d40-9c0e-afd1ad283474" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyBase.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyBase.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UnknownGC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnknownGC/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sources/dylan-reader-bg1-sunny-mountain.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sources/dylan-reader-bg1-sunny-mountain.gif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HealthBar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HealthBar.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HealthBar.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HealthBar.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/HealthBarCanvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/HealthBarCanvas.prefab" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1690383288884</updated>
       <workItem from="1690383294310" duration="1377000" />
-      <workItem from="1690394757191" duration="2832000" />
+      <workItem from="1690394757191" duration="4317000" />
     </task>
     <servers />
   </component>
