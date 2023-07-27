@@ -5,7 +5,7 @@ using UnityEngine;
 public class JSONReader : MonoBehaviour
 {
     public TextAsset textJSON;
-    
+
     [System.Serializable]
 
     public class Player{
@@ -21,7 +21,7 @@ public class JSONReader : MonoBehaviour
 
     public PlayerList myPlayerList = new PlayerList();
 
-    void Start()
+    void OnValidate()
     {
         myPlayerList = JsonUtility.FromJson<PlayerList>(textJSON.text);
     }
