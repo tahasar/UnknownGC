@@ -1,0 +1,24 @@
+{
+    "player": [
+        {
+            "name": "Warrior",
+            "health": 100,
+            "damage": 30
+        },
+        {
+            "name": "Spaceman",
+            "health": 100,
+            "damage": 50
+        },
+        {
+            "name": "Caveman",
+            "health": 50,
+            "damage": 40
+        },
+        {
+            "name": "Taha",
+            "health": 1000,
+            "damage": 1000
+        }
+    ]   
+}

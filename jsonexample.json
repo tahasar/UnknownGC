@@ -1,0 +1,11 @@
+{
+    "name": "Hero #1",
+    "image": "https://hero.sol",
+    "attributes": {
+      "attack": 55,
+      "health": 30,
+      "defense": 100,
+      "kind": "Common",
+      "level": 1,
+    }
+  }
