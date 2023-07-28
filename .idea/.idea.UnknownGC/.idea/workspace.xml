@@ -5,10 +5,182 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d77fbacc-1f7c-4d40-9c0e-afd1ad283474" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Animations.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Animations/Flame.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Animations/Flame.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Animations/exp1.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Animations/exp1.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Animations/exp2.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Animations/exp2.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Animations/exp3.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Animations/exp3.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Animations/exp4.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Animations/exp4.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Animations/explosion 1_0.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Animations/explosion 1_0.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Animations/explosion 2_0.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Animations/explosion 2_0.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Animations/explosion 3_0.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Animations/explosion 3_0.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Animations/explosion 4_0.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Animations/explosion 4_0.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Animations/flame.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Animations/flame.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Fireball.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Fireball.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Prefabs/Fireball.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Prefabs/Fireball.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Prefabs/explosion 2_0.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Prefabs/explosion 2_0.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Prefabs/read here.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Prefabs/read here.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Scripts/DestoryImpact.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Scripts/DestoryImpact.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Scripts/PlayerAttack.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Scripts/PlayerAttack.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Scripts/Projectile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Scripts/Projectile.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/bg.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/explosion.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/explosion/explosion 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/explosion/explosion 1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/explosion/explosion 1_0.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/explosion/explosion 1_0.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/explosion/explosion 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/explosion/explosion 2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/explosion/explosion 2_0.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/explosion/explosion 2_0.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/explosion/explosion 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/explosion/explosion 3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/explosion/explosion 3_0.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/explosion/explosion 3_0.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/explosion/explosion 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/explosion/explosion 4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/explosion/explosion 4_0.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/explosion/explosion 4_0.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/fireball projectile.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/fireball projectile/Başlıksız-21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/fireball projectile/Başlıksız-21.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/fireball projectile/Fireball.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Fire/Sprites/fireball projectile/Fireball.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Water.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Water/Water Force.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Water/Water Force.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Water/Water Force.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Water/Water Force/Main Camera Profile.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VFX/Water/Water Force/Main Camera Profile.asset.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UnknownGC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnknownGC/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HealthBar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HealthBar.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HealthBar.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HealthBar.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/HealthBarCanvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/HealthBarCanvas.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/Destoryİmpact.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/Destoryİmpact.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/PlayerAttack.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/PlayerAttack.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/Projectile.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/Projectile.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/anim/Başlıksız-21_0.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/anim/Başlıksız-21_0.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/anim/exp1.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/anim/exp1.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/anim/exp2.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/anim/exp2.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/anim/exp3.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/anim/exp3.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/anim/exp4.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/anim/exp4.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/anim/explosion 1_0.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/anim/explosion 1_0.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/anim/explosion 2_0.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/anim/explosion 2_0.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/anim/explosion 3_0.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/anim/explosion 3_0.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/anim/explosion 4_0.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/anim/explosion 4_0.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/anim/flamev2.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/anim/flamev2.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/bg.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/effects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/effects/Fireball.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/effects/Fireball.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/effects/explosion 2_0.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/effects/explosion 2_0.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/exp.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/exp/explosion 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/exp/explosion 1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/exp/explosion 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/exp/explosion 2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/exp/explosion 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/exp/explosion 3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/exp/explosion 4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/exp/explosion 4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame 2/Başlıksız-21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame 2/Başlıksız-21.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_03.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_04.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_05.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_06.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_07.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_08.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_09.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_11.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_13.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_14.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_15.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_16.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_17.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_18.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_19.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_20.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_21.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_22.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_23.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_24.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_25.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_26.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_27.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/flame/Effects_Fire_0_28.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/vfx.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/vfx.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,16 +191,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/HealthBar.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BattleHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Hero/Hero.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VFX/Fire/Scripts/PlayerAttack.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2T79WiuJIQrjQO9ab03gaHpiILX" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -42,6 +214,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Discover.Launch.Via.Unity": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -56,9 +229,9 @@
   },
   "keyToStringList": {
     "rider.external.source.directories": [
-      "C:\\Users\\Tahasar\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
-      "C:\\Users\\Tahasar\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
-      "C:\\Users\\Tahasar\\AppData\\Local\\Symbols\\src"
+      "C:\\Users\\metba\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\metba\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\metba\\AppData\\Local\\Symbols\\src"
     ]
   }
 }]]></component>
@@ -75,6 +248,14 @@
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.1f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\UnityProjelerim\UnknownGC -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="C:\UnityProjelerim\UnknownGC" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.1f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;C:\Users\metba\Desktop\oyun prrojeleri\git repo\SuperTeam-Turkey-Web3-Gamejam 2023\UnknownGC&quot; -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\metba\Desktop\oyun prrojeleri\git repo\SuperTeam-Turkey-Web3-Gamejam 2023\UnknownGC" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <method v="2" />
@@ -110,6 +291,7 @@
       <updated>1690383288884</updated>
       <workItem from="1690383294310" duration="1377000" />
       <workItem from="1690394757191" duration="4317000" />
+      <workItem from="1690463875809" duration="3453000" />
     </task>
     <servers />
   </component>
@@ -117,7 +299,7 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
-  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
